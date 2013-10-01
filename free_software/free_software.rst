@@ -12,7 +12,7 @@ David Gay
 -   https://twitter.com/oddshocks
 -   http://oddshocks.com
 -   ``2048R/7B478256 2013-04-20``
--   oddshocks in ``#rit-foss`` on ``irc.freenode.net``
+-   ``#rit-foss`` and ``#fedora-apps`` on Freenode
 
 .. image:: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
 
