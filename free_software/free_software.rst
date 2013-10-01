@@ -27,6 +27,11 @@ a **fully free** alternative to Unix.
 
 -----
 
+The Unix Philosophy
+===================
+
+-----
+
 Free software -- remember -- is not just "open source".
 
 What makes it different?
@@ -46,4 +51,37 @@ The Four Freedoms
 
 -----
 
+A brief history of GNU/Linux
+============================
 
+-----
+
+Free software and cloud computing
+=================================
+
+-----
+
+Freedom is crucial.
+===================
+
+-   Software
+
+-   Content
+
+-   Language
+
+-   Thought
+
+-----
+
+The importance of user freedom
+==============================
+
+-----
+
+License, License, License.
+==========================
+
+-----
+
+Closing
