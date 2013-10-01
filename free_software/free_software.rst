@@ -1,0 +1,49 @@
+:title: Free Software
+:skip-help: true
+:css: style.css
+
+Free Software, Free Culture
+###########################
+
+David Gay
+=========
+
+-   https://github.com/oddshocks
+-   https://twitter.com/oddshocks
+-   http://oddshocks.com
+-   ``2048R/7B478256 2013-04-20``
+-   oddshocks in ``#rit-foss`` on ``irc.freenode.net``
+
+.. image:: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+
+-----
+
+Free Unix!
+==========
+
+In 1983, Richard Stallman began the free software movement
+with these words. He said that he would begin to write
+a **fully free** alternative to Unix.
+
+-----
+
+Free software -- remember -- is not just "open source".
+
+What makes it different?
+
+-----
+
+The Four Freedoms
+=================
+
+0.  For any purpose.
+
+1.  Study and modify.
+
+2.  Distribute copies.
+
+3.  Distribute changes.
+
+-----
+
+
