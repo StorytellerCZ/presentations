@@ -1,4 +1,4 @@
-:title: Free Software
+:title: FOSSC: Free Software
 :skip-help: true
 :css: style.css
 
